@@ -21,6 +21,8 @@
 vscode 全名 visual studio code 由微软公司研发的开源编辑器, 可以适配大量的语言
 #### 1.安装
 从vscode官方网站下载安装包: [vscode](https://code.visualstudio.com/)
+![image](https://user-images.githubusercontent.com/83909447/179445166-e6d771f2-ce7e-4ab5-a2b0-3dd337e24d4e.png)
+
 ### python
 本章节会教大家配置运行python的环境
 #### 1.安装
