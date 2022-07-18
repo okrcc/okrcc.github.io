@@ -1,10 +1,10 @@
 # 欢迎来到okr的网页
 
-可以通过这个链接进入到okrcc的页面代码[editor on GitHub](https://github.com/okrcc/okrcc.github.io/edit/main/index.md)
+- 我将会在这个网页分享不同编程语言的学习方法, 大家也可以在这里学习python, 
 ## 解释:
 
-- 本博客目前专业于python
-- 后期会衍生到其它语言的分支, 目前提前说明后期的语言有:
+- 本博客目前专业于[python](www.python.org)
+- 后期会衍生到其它语言的分支, 提前说明后期的语言有:
 
 1. c++
 2. java
@@ -15,6 +15,7 @@
 
 ## 初始配置
 ### python
+
 ```
 
 ```
