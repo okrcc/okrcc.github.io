@@ -15,49 +15,49 @@
 
 ## 配置环境与编程语言
 ### 本章节将会教大家安装对应的语言编译器和编辑器
-编译器: 用来运行写好代码的程序
-编辑器: 用来给用户编写代码的程序
+- 编译器: 用来运行写好代码的程序
+- 编辑器: 用来给用户编写代码的程序
 ###  vscode
-全名 visual studio code 又称为 vscode\vs\code 由微软公司研发的开源编辑器, 可以适配大量的语言
-本章节只是支持使用vscode, 并不是否定其它编辑器
+- 全名 visual studio code 又称为 vscode\vs\code 由微软公司研发的开源编辑器, 可以适配大量的语言
+- 本章节只是支持使用vscode, 并不是否定其它编辑器
 ####    1.下载
 从vscode官方网站下载安装包: [vscode](https://code.visualstudio.com/)
 ![vscode下载选择](https://user-images.githubusercontent.com/83909447/179445166-e6d771f2-ce7e-4ab5-a2b0-3dd337e24d4e.png)
-选择对应版本的下载
-或者访问另一个链接:
+- 选择对应版本的下载
+- 或者访问另一个链接:
 [vscode蓝奏云网盘下载链接](https://shaiguo.lanzouv.com/ikDa307zokfc)
-访问密钥: `f1ae`
+- 访问密钥: `f1ae`
 ####    2.安装
-运行已下载的vscode安装包
+- 运行已下载的vscode安装包
 ![image](https://user-images.githubusercontent.com/83909447/179446361-2742985b-7b2f-41cf-91d3-9c91461f8092.png)
-选择`我同意此协议`后选择`下一步`
+- 选择`我同意此协议`后选择`下一步`
 ![image](https://user-images.githubusercontent.com/83909447/179446440-ac30c3b0-9a6a-43fd-8574-1408827a92c5.png)
-除了箭头所指的选项均为可选, 箭头所指选项为建议选择, 然后点击下一步
+- 除了箭头所指的选项均为可选, 箭头所指选项为建议选择, 然后点击下一步
 ![image](https://user-images.githubusercontent.com/83909447/179446523-0d7bd9ab-a1f8-4ba9-9608-286c7e631af4.png)
-点击`安装`
+- 点击`安装`
 ![image](https://user-images.githubusercontent.com/83909447/179446606-bd0fe661-372f-446a-8cd5-96792dc01e33.png)
-完成安装后界面如此
+- 完成安装后界面如此
 ####    3.优化
 #####     A. 切换中文
 ![image](https://user-images.githubusercontent.com/83909447/179446653-bb46c7b0-c520-4254-82a4-a11bd4ce9c31.png)
-点击类似于模块的按钮
+- 点击类似于模块的按钮
 ![image](https://user-images.githubusercontent.com/83909447/179446752-7dd57820-25c0-4c17-811d-764340a8c2a6.png)
-输入`chinese`
+- 输入`chinese`
 ![image](https://user-images.githubusercontent.com/83909447/179446797-02bb65bf-0a64-46d1-b975-5466bd3fed53.png)
-确认选项后选择`安装`
-使用快捷键【Ctrl+Shift+P】弹出查找命令框，输入language, 找到Configure Display Language，点击，选择locale属性为"zh-CN"，如下图所示：
+- 确认选项后选择`安装`
+- 使用快捷键【Ctrl+Shift+P】弹出查找命令框，输入language, 找到Configure Display Language，点击，选择locale属性为"zh-CN"，如下图所示：
 ![image](https://user-images.githubusercontent.com/83909447/179447109-ec17e502-e207-494d-90c7-318771a70c84.png)
 ![image](https://user-images.githubusercontent.com/83909447/179447162-beb53e7b-667d-4510-8cd6-a990978c0591.png)
 重启软件就好了
 #####     B. 优化外貌
-依照切换中文的安装模块方法安装以下模块:
+- 依照切换中文的安装模块方法安装以下模块:
 ![image](https://user-images.githubusercontent.com/83909447/179447368-274bbb7e-68ef-4d09-854e-bd33bd151643.png)
-选择`设置`按钮中`文件图标主题`选项
+- 选择`设置`按钮中`文件图标主题`选项
 ![image](https://user-images.githubusercontent.com/83909447/179447424-7e7e52a8-9e1a-471c-b824-cf6fabee53dc.png)
-选择`vscode icons`
+- 选择`vscode icons`
 ![image](https://user-images.githubusercontent.com/83909447/179447550-0d41cfa5-6b98-4049-8c3c-ffbe9f5b4cca.png)
 
 
 ###  python
-本章节会教大家配置运行python的环境
+- 本章节会教大家配置运行python的环境
 ####    1.下载
