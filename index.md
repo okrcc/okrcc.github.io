@@ -3,15 +3,15 @@
 可以通过这个链接进入到okrcc的页面代码[editor on GitHub](https://github.com/okrcc/okrcc.github.io/edit/main/index.md)
 ## 解释:
 
-本博客目前专业于python
-后期会衍生到其它语言的分支, 目前提前说明后期的语言有:
+- 本博客目前专业于python
+- 后期会衍生到其它语言的分支, 目前提前说明后期的语言有:
 
-- c++
-- java
-- html
-- css
-- js
-- python进阶
+1. c++
+2. java
+3. html
+4. css
+5. js
+6. python进阶
 
 ## 初始配置
 ### python
