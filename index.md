@@ -17,7 +17,7 @@
 ### 本章节将会教大家安装对应的语言编译器和编辑器
 - 编译器: 用来运行写好代码的程序
 - 编辑器: 用来给用户编写代码的程序
-###  vscode
+###  [vscode]([Contribution guidelines for this project](docs/CONTRIBUTING.md))
 - 全名 visual studio code 又称为 vscode\vs\code 由微软公司研发的开源编辑器, 可以适配大量的语言
 - 本章节只是支持使用vscode, 并不是否定其它编辑器
 ####    1.下载
