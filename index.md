@@ -12,8 +12,8 @@
    - js
    - python进阶
 
-1. 配置环境与编程语言
-   - [vscode](docs/CONTRIBUTING.md)
+1. [配置环境与编程语言](配置环境与编程语言章节说明.md)
+   - [vscode](vscode_安装\配置\优化.md)
    - python
      - 本章节会教大家配置运行python的环境
 
