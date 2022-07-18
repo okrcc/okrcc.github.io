@@ -48,7 +48,7 @@
 - 使用快捷键【Ctrl+Shift+P】弹出查找命令框，输入language, 找到Configure Display Language，点击，选择locale属性为"zh-CN"，如下图所示：
 - ![image](https://user-images.githubusercontent.com/83909447/179447109-ec17e502-e207-494d-90c7-318771a70c84.png)
 - ![image](https://user-images.githubusercontent.com/83909447/179447162-beb53e7b-667d-4510-8cd6-a990978c0591.png)
-重启软件就好了
+- 重启软件就好了
 #####     B. 优化外貌
 - 依照切换中文的安装模块方法安装以下模块:
 - ![image](https://user-images.githubusercontent.com/83909447/179447368-274bbb7e-68ef-4d09-854e-bd33bd151643.png)
@@ -56,8 +56,10 @@
 - ![image](https://user-images.githubusercontent.com/83909447/179447424-7e7e52a8-9e1a-471c-b824-cf6fabee53dc.png)
 - 选择`vscode icons`
 - ![image](https://user-images.githubusercontent.com/83909447/179447550-0d41cfa5-6b98-4049-8c3c-ffbe9f5b4cca.png)
-
-
+以上为图标包安装
+- 依照切换中文的安装模块方法安装以下模块:
+- ![image](https://user-images.githubusercontent.com/83909447/179448585-f0a493c5-2d33-4267-9fcb-eb850f51c9bf.png)
+- 这些模块可以让你之后的编程中更加方便\直观
 ###  python
 - 本章节会教大家配置运行python的环境
 ####    1.下载
