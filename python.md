@@ -29,17 +29,67 @@
           - ![image](https://user-images.githubusercontent.com/83909447/179652474-881ba078-99be-4b6d-aebc-d9b287ce6052.png)
           - 由于作者安装了多个python, 我们就取第一个(第一个是python10)
           - 复制输出的第一行内容, 如: `C:\Program Files\Python310\python.exe`
-          - 在windows菜单里面输入`环境变量`, 如下
-          - ![image](https://user-images.githubusercontent.com/83909447/179653098-200faaea-4aeb-4fcd-958f-91b9382f7b4b.png)
-          - 选择第一个, 界面如下:
-          - ![image](https://user-images.githubusercontent.com/83909447/179653346-82bf7a74-b491-4998-96c1-d37bc113e4d3.png)
-          - 点击环境变量按钮, 界面如下:
-          - ![image](https://user-images.githubusercontent.com/83909447/179653411-f5d8ed89-0335-4f2b-af7e-0d3c9d1c7cc0.png)
-          - 在下列系统变量列表找到名为`path`的项目并双击打开, 界面如下
-          - ![image](https://user-images.githubusercontent.com/83909447/179656419-ce82499a-1d7e-4506-98e9-d88b89f17672.png)
-          - 你们可能没有这么多项, 但是没关系, 操作都一样, 点击`新建`, 在输入框输入刚才复制的内容, 如下:
-          - ![image](https://user-images.githubusercontent.com/83909447/179656630-dd063b91-a168-4b8d-bce3-01c73671f85a.png)
-          - 把后面的`python.exe`改为`Scripts`
-          - 点击`确定`, 在`环境变量`窗口再点击确定, 最后在系统属性也点击确定
-          - 配置完成
+      - 配置环境变量
+        - 在windows菜单里面输入`环境变量`, 如下
+        - ![image](https://user-images.githubusercontent.com/83909447/179653098-200faaea-4aeb-4fcd-958f-91b9382f7b4b.png)
+        - 选择第一个, 界面如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179653346-82bf7a74-b491-4998-96c1-d37bc113e4d3.png)
+        - 点击环境变量按钮, 界面如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179653411-f5d8ed89-0335-4f2b-af7e-0d3c9d1c7cc0.png)
+        - 在下列系统变量列表找到名为`path`的项目并双击打开, 界面如下
+        - ![image](https://user-images.githubusercontent.com/83909447/179656419-ce82499a-1d7e-4506-98e9-d88b89f17672.png)
+        - 你们可能没有这么多项, 但是没关系, 操作都一样, 点击`新建`, 在输入框输入刚才复制的内容, 如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179656630-dd063b91-a168-4b8d-bce3-01c73671f85a.png)
+        - 把后面的`python.exe`改为`Scripts`
+        - 点击`确定`, 在`环境变量`窗口再点击确定, 最后在系统属性也点击确定
+        - 配置完成
+      - vscode 配置
+        - 打开[vscode](vscode_安装\配置\优化.md)
+        - 在扩展窗口输入`python`
+        - 安装如下拓展
+        - ![image](https://user-images.githubusercontent.com/83909447/179657889-79afb90c-225e-46f6-8139-6a19fa4e5bf2.png)
+        - 在文件窗口选择如下按钮:
+        - ![image](https://user-images.githubusercontent.com/83909447/179657938-23e10254-faaa-4dac-a98d-82d9d5f535fb.png)
+        - 选择一个你希望存放项目的文件夹
+        - 遇到弹窗选择这个:
+        - ![image](https://user-images.githubusercontent.com/83909447/179658128-94da23e9-b25c-4527-a251-6610c9ff34f0.png)
+        - 按下`新建`按钮, 新建一个后缀为`.py`的文件
+        - ![image](https://user-images.githubusercontent.com/83909447/179658209-90ef3d9b-1219-4ff7-befe-cf2f8d5f55ab.png)
+        - ![image](https://user-images.githubusercontent.com/83909447/179658330-9fd22d5c-a716-49e1-b7ed-065a3815a5a5.png)
+        - 输入`print('hello world')`
+        - ![image](https://user-images.githubusercontent.com/83909447/179658421-4c275582-e8a3-426e-a7ea-8958c3d7f9a4.png)
+        - 按下`运行`按钮, 或者按下键盘上面的`f5`
+        - ![image](https://user-images.githubusercontent.com/83909447/179658547-e6812c2d-109f-4479-b553-95c98ef0dcd8.png)
+        - 选择第一个:
+        - ![image](https://user-images.githubusercontent.com/83909447/179658592-1116fa34-2711-4baf-95d7-a828fc0e4982.png)
+        - 界面如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179658622-074b129d-8c2c-4fc5-bdbf-4ee0dcb5e9aa.png)
+        - 可以在`terminal`或`终端`选项卡看见输出的内容
+        - 以上为vscode配置python的内容
+    - 基础操作
+      - 交互式界面
+        - 依照上面的方法打开`cmd`
+        - 输入`python`
+        - 界面如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179658942-7c22d9b5-b4d8-4a5f-98cb-817f159d4d14.png)
+        - 以上为交互界面, 可以编写比较短小的代码, 如`print('hello world')`
+        - 输入`exit()`退出
+        - ![image](https://user-images.githubusercontent.com/83909447/179659115-02d41b6c-57cf-4809-b474-192a104098f3.png)
+      - 包\库的安装:
+        - 解释:
+          - pip是python一个安装库的工具, 大部分包都需要使用pip安装
+          - pip的源指pip从那个源安装的工具, 默认的源是国外的, 安装速度比较慢, 可以通过`pip config set global.index-url http://pypi.douban.com/simple/`切换源到国内豆瓣
+        - 打开`cmd`
+        - 输入`pip`, 界面如下:
+        - ![image](https://user-images.githubusercontent.com/83909447/179659388-5ae1eae5-fbaf-41b2-ac93-8f84a4a6271d.png)
+        - 输入`python -m pip install -U pip`以升级pip, 不让后续操作可能不成功
+        - 等升级完成, 如果不成功可以用`python3 -m pip install -U pip`或者`pip install -U pip`或者`pip3 install -U pip`
+        - pip的通用语句(需要安装的东西简称为xxx):
+          - `pip install xxx`
+          - `pip3 install xxx`
+          - `python -m install xxx`
+          - `python3 -m install xxx`
+          - pip安装出现问题可以用轮流用以上的代码
+          - 比如 `pip install pygame`
+[开始学习python](python_基础学习.md)
 [回到主页](index.md)
