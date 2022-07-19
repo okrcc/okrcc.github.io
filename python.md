@@ -10,4 +10,36 @@
       - x64位可以安装所有系统对应版本的安装包
     - 下载链接
       - [官网链接](https://www.python.org/)
-      - 
+      - [蓝奏云外链下载](https://shaiguo.lanzouv.com/iciuh07zoksf)
+      - 密钥:96tj
+      - 蓝奏云外链链接为3.6.0a2-amd64版本
+    - 安装
+      - 依照下面视频安装(不同版本的安装方法有区别, 但是不会太大)
+      - https://user-images.githubusercontent.com/83909447/179651618-b35647e1-792f-4abc-95d2-a8888a08091b.mp4
+    - 配置
+      - 获取你的python安装地址
+        - 1. 打开cmd
+          - 按下快捷键`win+r`
+          - 输入`cmd`后回车
+          - 界面如下:
+          - ![image](https://user-images.githubusercontent.com/83909447/179652252-1a793df0-d5a5-456c-a361-6237874ac073.png)
+        - 2. 获取python地址
+          - 输入`where python`后回车
+          - 界面如下:
+          - ![image](https://user-images.githubusercontent.com/83909447/179652474-881ba078-99be-4b6d-aebc-d9b287ce6052.png)
+          - 由于作者安装了多个python, 我们就取第一个(第一个是python10)
+          - 复制输出的第一行内容, 如: `C:\Program Files\Python310\python.exe`
+          - 在windows菜单里面输入`环境变量`, 如下
+          - ![image](https://user-images.githubusercontent.com/83909447/179653098-200faaea-4aeb-4fcd-958f-91b9382f7b4b.png)
+          - 选择第一个, 界面如下:
+          - ![image](https://user-images.githubusercontent.com/83909447/179653346-82bf7a74-b491-4998-96c1-d37bc113e4d3.png)
+          - 点击环境变量按钮, 界面如下:
+          - ![image](https://user-images.githubusercontent.com/83909447/179653411-f5d8ed89-0335-4f2b-af7e-0d3c9d1c7cc0.png)
+          - 在下列系统变量列表找到名为`path`的项目并双击打开, 界面如下
+          - ![image](https://user-images.githubusercontent.com/83909447/179656419-ce82499a-1d7e-4506-98e9-d88b89f17672.png)
+          - 你们可能没有这么多项, 但是没关系, 操作都一样, 点击`新建`, 在输入框输入刚才复制的内容, 如下:
+          - ![image](https://user-images.githubusercontent.com/83909447/179656630-dd063b91-a168-4b8d-bce3-01c73671f85a.png)
+          - 把后面的`python.exe`改为`Scripts`
+          - 点击`确定`, 在`环境变量`窗口再点击确定, 最后在系统属性也点击确定
+          - 配置完成
+[回到主页](index.md)
