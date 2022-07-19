@@ -91,5 +91,5 @@
           - `python3 -m install xxx`
           - pip安装出现问题可以用轮流用以上的代码
           - 比如 `pip install pygame`
-[开始学习python](python_基础学习.md)
-[回到主页](index.md)
+# [开始学习python](python_基础学习.md)
+# [回到主页](index.md)
