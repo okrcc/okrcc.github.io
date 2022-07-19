@@ -15,9 +15,9 @@
 -  [配置环境与编程语言](配置环境与编程语言章节说明.md)
    - [vscode(编辑器)](vscode_安装\配置\优化.md)
    - [python](python.md)
-   - [c++](c++.md)
-   - [java](java.md)
-   - [html](html.md)
-   - [css](css.md)
-   - [js](js.md)
-   - [python进阶](python进阶.md)
+   - [c++]
+   - [java]
+   - [html]
+   - [css]
+   - [js]
+   - [python进阶]
