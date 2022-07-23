@@ -7,4 +7,5 @@
 - 学习`html\css\js`时会使用`vscode`也会讲到`adobe dreamweaver`, 那将会是比`vscode`更加强大的编辑器
 - 学习`java`时我们依然会使用`vscode`, 但是配置过程偏繁琐
 - 学习`python`时我们也会使用`vscode`
-# [回到主页]()
+# [安装](安装vscode/安装 vscode.md)
+# [回到主页](.../okrcc.github.io/index.md)
