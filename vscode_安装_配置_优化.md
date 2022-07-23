@@ -1,6 +1,11 @@
 #  vscode
-- 全名 visual studio code 又称为 vscode\vs\code 由微软公司研发的开源编辑器, 可以适配大量的语言
-- 本章节只是支持使用vscode, 并不是否定其它编辑器
+- 全名 visual studio code 又称为 vscode\code 后面的文章会将visual studio code讲述为vscode
+- vscode由微软公司研发的开源编辑器, 可以适配大量的语言
+- 本章节只是支持使用vscode, 并不是否定其它编辑器, 如visual studio
+- 学习`c++`时我们会使用`dev-c++`编辑器兼编译器
+- 学习`html\css\js`时会使用`vscode`也会讲到`adobe dreamweaver`, 那将会是比`vscode`更加强大的编辑器
+- 学习`java`时我们依然会使用`vscode`, 但是配置过程偏繁琐
+- 学习`python`时我们也会使用`vscode`
 ##    1.下载
 从vscode官方网站下载安装包: [vscode](https://code.visualstudio.com/)
 - ![vscode下载选择](https://user-images.githubusercontent.com/83909447/179445166-e6d771f2-ce7e-4ab5-a2b0-3dd337e24d4e.png)
