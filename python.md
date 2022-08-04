@@ -66,6 +66,13 @@
         - ![image](https://user-images.githubusercontent.com/83909447/179658622-074b129d-8c2c-4fc5-bdbf-4ee0dcb5e9aa.png)
         - 可以在`terminal`或`终端`选项卡看见输出的内容
         - 以上为vscode配置python的内容
+      - lightly 配置
+        - 打开lightly软件
+        - 点击`新建项目`
+        - 模板中选择`python`
+        - 项目名称自己取
+        - 版本选择python3.x(不要选择2.x的版本, 因为不是同一个语言)
+        - 以上为lightly配置python的内容
     - 基础操作
       - 交互式界面
         - 依照上面的方法打开`cmd`
