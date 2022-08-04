@@ -17,9 +17,9 @@
    - [vscode(编辑器)](vscode_安装_配置_优化.md)
    - [python配置](python.md)
    - [python学习](python_基础学习.md)
-   - [c++]
-   - [java]
-   - [html]
-   - [css]
-   - [js](daf.md)
-   - [python进阶]
+   - [c++(开发中)]
+   - [java(开发中)]
+   - [html(开发中)]
+   - [css(开发中)]
+   - [js(开发中)]
+   - [python进阶(开发中)]
