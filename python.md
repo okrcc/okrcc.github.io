@@ -43,7 +43,7 @@
         - 把后面的`python.exe`改为`Scripts`
         - 点击`确定`, 在`环境变量`窗口再点击确定, 最后在系统属性也点击确定
         - 配置完成
-      - vscode 配置
+      - ~ vscode 配置
         - 打开[vscode](vscode_安装\配置\优化.md)
         - 在扩展窗口输入`python`
         - 安装如下拓展
@@ -66,7 +66,7 @@
         - ![image](https://user-images.githubusercontent.com/83909447/179658622-074b129d-8c2c-4fc5-bdbf-4ee0dcb5e9aa.png)
         - 可以在`terminal`或`终端`选项卡看见输出的内容
         - 以上为vscode配置python的内容
-      - lightly 配置
+      - ~ lightly 配置
         - 打开lightly软件
         - 点击`新建项目`
         - 模板中选择`python`
