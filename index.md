@@ -21,5 +21,5 @@
    - [java]
    - [html]
    - [css]
-   - [js]
+   - [js](daf.md)
    - [python进阶]
