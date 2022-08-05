@@ -13,5 +13,6 @@
 - python中所有符号均为半角,如`"双引号"`
 ## 基本函数
 - [print()](语言/python/python基础函数/print().md)
+- [input()](语言/python/python基础函数/input().md)
 # 开发中
 # [回到主页](index.md)
