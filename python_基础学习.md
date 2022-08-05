@@ -12,6 +12,6 @@
 - `#`的用法是注释, 如`# 赋值所有变量`
 - python中所有符号均为半角,如`"双引号"`
 ## 基本函数
-- [print()](语言/python/python基础函数/print.md)
+- [print()](语言/python/python基础函数/print().md)
 # 开发中
 # [回到主页](index.md)
