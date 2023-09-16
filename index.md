@@ -1,4 +1,2 @@
 #项目
-- minecraft-forge-mod-1.16.5制作
-    - 分支: 1.16.5-main
-    - 分支: forge-mod-1.16.5-1
+- 简易枪械-(Simple_weapon)[https://github.com/okrcc/Simple_weapon]
